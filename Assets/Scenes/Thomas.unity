@@ -6165,7 +6165,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerbody: {fileID: 2108744836}
   playerTransform: {fileID: 2108744870}
-  thrust: 5
+  thrust: 50
 --- !u!136 &2108744884
 CapsuleCollider:
   m_ObjectHideFlags: 0
